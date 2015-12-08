@@ -11,3 +11,9 @@ English Instractions:
 
 簡易マニュアル:
 [![](https://cloud.githubusercontent.com/assets/1183484/11322464/40fc4034-9130-11e5-95ef-a6737c06469e.png)](https://cloud.githubusercontent.com/assets/1183484/11322464/40fc4034-9130-11e5-95ef-a6737c06469e.png)
+
+## 0.0.2
+Added Kestrel
+
+## 0.0.1
+Initial Release
